@@ -2,7 +2,7 @@ package edu.wit.cs.comp1000;
 
 import java.util.Scanner;
 
-// TODO: document this 
+// TODO: document  
 public class PA1a {
 	
 	public static void main(String[] args) {
